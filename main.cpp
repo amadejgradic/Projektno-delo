@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Projektno delo!" << std::endl;
+    std::cout << "Projektnooo delo!" << std::endl;
     return 0;
 }
