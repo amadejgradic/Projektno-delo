@@ -2,5 +2,5 @@
 
 int main() {
     std::cout << "Projektno  delo!" << std::endl;
-    return 0;
+    return 0; ads
 }
